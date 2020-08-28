@@ -1,0 +1,12 @@
+/Users/christiankirschberg/repos/school/OOP/bin/Debug/netcoreapp3.1/OOP.deps.json
+/Users/christiankirschberg/repos/school/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.json
+/Users/christiankirschberg/repos/school/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.dev.json
+/Users/christiankirschberg/repos/school/OOP/bin/Debug/netcoreapp3.1/OOP.dll
+/Users/christiankirschberg/repos/school/OOP/bin/Debug/netcoreapp3.1/OOP.pdb
+/Users/christiankirschberg/repos/school/OOP/obj/Debug/netcoreapp3.1/OOP.csprojAssemblyReference.cache
+/Users/christiankirschberg/repos/school/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfoInputs.cache
+/Users/christiankirschberg/repos/school/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfo.cs
+/Users/christiankirschberg/repos/school/OOP/obj/Debug/netcoreapp3.1/OOP.csproj.CoreCompileInputs.cache
+/Users/christiankirschberg/repos/school/OOP/obj/Debug/netcoreapp3.1/OOP.dll
+/Users/christiankirschberg/repos/school/OOP/obj/Debug/netcoreapp3.1/OOP.pdb
+/Users/christiankirschberg/repos/school/OOP/obj/Debug/netcoreapp3.1/OOP.genruntimeconfig.cache
