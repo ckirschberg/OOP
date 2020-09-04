@@ -21,7 +21,8 @@ namespace OOP
             this.color = color;
             this.Engine = engine;
         }
-        public Car(string brand, string model, string color, int numberOfDoors, Engine engine) : this(brand, model, color, engine) {
+        public Car(string brand, string model, string color, int numberOfDoors, Engine engine) 
+        : this(brand, model, color, engine) {
             this.numberOfDoors = numberOfDoors;
         }
 
@@ -37,7 +38,7 @@ namespace OOP
 
         // Easy way to print out an entire object.
         // Console.WriteLine(*object name*) - auto. calls the ToString method.
-        public override string ToString() {
+        public string ToString() {
             return this.brand + " " + this.model + " in " 
                 + this.color + " with " + this.numberOfDoors + " doors!";
         }
